@@ -1,0 +1,78 @@
+[26-Apr-2023 04:47:53 UTC] PHP Warning:  require(/home/digicampus/public_html/dms.digicampus.app/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/digicampus/public_html/dms.digicampus.app/public/index.php on line 34
+[26-Apr-2023 04:47:53 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/digicampus/public_html/dms.digicampus.app/public/../vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/digicampus/public_html/dms.digicampus.app/public/index.php:34
+Stack trace:
+#0 /home/digicampus/public_html/dms.digicampus.app/index.php(21): require_once()
+#1 {main}
+  thrown in /home/digicampus/public_html/dms.digicampus.app/public/index.php on line 34
+[26-Apr-2023 04:48:14 UTC] PHP Warning:  require(/home/digicampus/public_html/dms.digicampus.app/vendor/autoload.php): Failed to open stream: No such file or directory in /home/digicampus/public_html/dms.digicampus.app/artisan on line 18
+[26-Apr-2023 04:48:14 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/digicampus/public_html/dms.digicampus.app/vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/digicampus/public_html/dms.digicampus.app/artisan:18
+Stack trace:
+#0 {main}
+  thrown in /home/digicampus/public_html/dms.digicampus.app/artisan on line 18
+[26-Apr-2023 04:48:22 UTC] PHP Warning:  require(/home/digicampus/public_html/dms.digicampus.app/vendor/autoload.php): Failed to open stream: No such file or directory in /home/digicampus/public_html/dms.digicampus.app/artisan on line 18
+[26-Apr-2023 04:48:22 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/digicampus/public_html/dms.digicampus.app/vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/digicampus/public_html/dms.digicampus.app/artisan:18
+Stack trace:
+#0 {main}
+  thrown in /home/digicampus/public_html/dms.digicampus.app/artisan on line 18
+[26-Apr-2023 04:48:26 UTC] PHP Warning:  require(/home/digicampus/public_html/dms.digicampus.app/vendor/autoload.php): Failed to open stream: No such file or directory in /home/digicampus/public_html/dms.digicampus.app/artisan on line 18
+[26-Apr-2023 04:48:26 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/digicampus/public_html/dms.digicampus.app/vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/digicampus/public_html/dms.digicampus.app/artisan:18
+Stack trace:
+#0 {main}
+  thrown in /home/digicampus/public_html/dms.digicampus.app/artisan on line 18
+[26-Apr-2023 04:48:31 UTC] PHP Warning:  require(/home/digicampus/public_html/dms.digicampus.app/vendor/autoload.php): Failed to open stream: No such file or directory in /home/digicampus/public_html/dms.digicampus.app/artisan on line 18
+[26-Apr-2023 04:48:31 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/digicampus/public_html/dms.digicampus.app/vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/digicampus/public_html/dms.digicampus.app/artisan:18
+Stack trace:
+#0 {main}
+  thrown in /home/digicampus/public_html/dms.digicampus.app/artisan on line 18
+[26-Apr-2023 04:48:36 UTC] PHP Warning:  require(/home/digicampus/public_html/dms.digicampus.app/vendor/autoload.php): Failed to open stream: No such file or directory in /home/digicampus/public_html/dms.digicampus.app/artisan on line 18
+[26-Apr-2023 04:48:36 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/digicampus/public_html/dms.digicampus.app/vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/digicampus/public_html/dms.digicampus.app/artisan:18
+Stack trace:
+#0 {main}
+  thrown in /home/digicampus/public_html/dms.digicampus.app/artisan on line 18
+[26-Apr-2023 04:48:40 UTC] PHP Warning:  require(/home/digicampus/public_html/dms.digicampus.app/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/digicampus/public_html/dms.digicampus.app/public/index.php on line 34
+[26-Apr-2023 04:48:40 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/digicampus/public_html/dms.digicampus.app/public/../vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/digicampus/public_html/dms.digicampus.app/public/index.php:34
+Stack trace:
+#0 /home/digicampus/public_html/dms.digicampus.app/index.php(21): require_once()
+#1 {main}
+  thrown in /home/digicampus/public_html/dms.digicampus.app/public/index.php on line 34
+[26-Apr-2023 04:49:19 UTC] PHP Warning:  require(/home/digicampus/public_html/dms.digicampus.app/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/digicampus/public_html/dms.digicampus.app/public/index.php on line 34
+[26-Apr-2023 04:49:19 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/digicampus/public_html/dms.digicampus.app/public/../vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/digicampus/public_html/dms.digicampus.app/public/index.php:34
+Stack trace:
+#0 /home/digicampus/public_html/dms.digicampus.app/index.php(21): require_once()
+#1 {main}
+  thrown in /home/digicampus/public_html/dms.digicampus.app/public/index.php on line 34
+[26-Apr-2023 04:55:53 UTC] PHP Warning:  require(/home/digicampus/public_html/dms.digicampus.app/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/digicampus/public_html/dms.digicampus.app/public/index.php on line 34
+[26-Apr-2023 04:55:53 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/digicampus/public_html/dms.digicampus.app/public/../vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/digicampus/public_html/dms.digicampus.app/public/index.php:34
+Stack trace:
+#0 /home/digicampus/public_html/dms.digicampus.app/index.php(21): require_once()
+#1 {main}
+  thrown in /home/digicampus/public_html/dms.digicampus.app/public/index.php on line 34
+[26-Apr-2023 05:00:15 UTC] PHP Warning:  require(/home/digicampus/public_html/dms.digicampus.app/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/digicampus/public_html/dms.digicampus.app/public/index.php on line 34
+[26-Apr-2023 05:00:15 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/digicampus/public_html/dms.digicampus.app/public/../vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/digicampus/public_html/dms.digicampus.app/public/index.php:34
+Stack trace:
+#0 /home/digicampus/public_html/dms.digicampus.app/index.php(21): require_once()
+#1 {main}
+  thrown in /home/digicampus/public_html/dms.digicampus.app/public/index.php on line 34
+[26-Apr-2023 05:02:55 UTC] PHP Warning:  require(/home/digicampus/public_html/dms.digicampus.app/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/digicampus/public_html/dms.digicampus.app/public/index.php on line 34
+[26-Apr-2023 05:02:55 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/digicampus/public_html/dms.digicampus.app/public/../vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/digicampus/public_html/dms.digicampus.app/public/index.php:34
+Stack trace:
+#0 /home/digicampus/public_html/dms.digicampus.app/index.php(21): require_once()
+#1 {main}
+  thrown in /home/digicampus/public_html/dms.digicampus.app/public/index.php on line 34
+[26-Apr-2023 05:03:10 UTC] PHP Warning:  require(/home/digicampus/public_html/dms.digicampus.app/vendor/autoload.php): Failed to open stream: No such file or directory in /home/digicampus/public_html/dms.digicampus.app/artisan on line 18
+[26-Apr-2023 05:03:10 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/digicampus/public_html/dms.digicampus.app/vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/digicampus/public_html/dms.digicampus.app/artisan:18
+Stack trace:
+#0 {main}
+  thrown in /home/digicampus/public_html/dms.digicampus.app/artisan on line 18
+[26-Apr-2023 05:03:13 UTC] PHP Warning:  require(/home/digicampus/public_html/dms.digicampus.app/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/digicampus/public_html/dms.digicampus.app/public/index.php on line 34
+[26-Apr-2023 05:03:13 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/digicampus/public_html/dms.digicampus.app/public/../vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/digicampus/public_html/dms.digicampus.app/public/index.php:34
+Stack trace:
+#0 /home/digicampus/public_html/dms.digicampus.app/index.php(21): require_once()
+#1 {main}
+  thrown in /home/digicampus/public_html/dms.digicampus.app/public/index.php on line 34
+[26-Apr-2023 05:03:52 UTC] PHP Warning:  require(/home/digicampus/public_html/dms.digicampus.app/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/digicampus/public_html/dms.digicampus.app/public/index.php on line 34
+[26-Apr-2023 05:03:52 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/digicampus/public_html/dms.digicampus.app/public/../vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/digicampus/public_html/dms.digicampus.app/public/index.php:34
+Stack trace:
+#0 /home/digicampus/public_html/dms.digicampus.app/index.php(21): require_once()
+#1 {main}
+  thrown in /home/digicampus/public_html/dms.digicampus.app/public/index.php on line 34
